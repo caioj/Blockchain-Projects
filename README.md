@@ -15,4 +15,4 @@ My credentials include an MBA in Business Management, Controllership and Corpora
 * [Medium](https://www.medium.com)
 
 ## Projetos: 
-* **Blockchain-Python**: https://bit.ly/2YZPGg7
+* **Blockchain-Python**: https://bit.ly/2YZPGg7 **Artigo**: https://bit.ly/2YopPzk
